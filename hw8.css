@@ -1,0 +1,15 @@
+.text-book>:nth-child(1){
+    color: pink;
+}
+#greycol{
+    color: gray;
+}
+.text-book>div>p{
+    color: red;
+}
+.text-book>:nth-child(7){
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
