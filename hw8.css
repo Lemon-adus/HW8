@@ -1,3 +1,4 @@
+/* 1 */
 .text-book>:nth-child(1){
     color: pink;
 }
@@ -12,4 +13,28 @@
 }
 .yellow{
     color: yellow;
+}
+/* 2 */
+.container{
+    background-color: cadetblue;
+}
+.list_item:nth-child(3n){
+    color: aquamarine;
+}
+.list_item:nth-child(4){
+    color: rgb(255, 251, 127);
+}
+.list_item:nth-child(1){
+    color: rgb(255, 251, 127);
+}
+.list_item:nth-child(2){
+    color: rgb(180, 255, 127);
+}.list_item:nth-child(7){
+    color: rgb(180, 255, 127);
+}
+.list_item:nth-child(5){
+    color: rgb(255, 207, 207);
+}
+.list_item:hover{
+    color: rgb(162, 0, 255);
 }
